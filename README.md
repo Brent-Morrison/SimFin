@@ -1,2 +1,2 @@
 # SimFin
-Scripts for data download from simfin.com
+Scripts for data downloads from the simfin.com website
