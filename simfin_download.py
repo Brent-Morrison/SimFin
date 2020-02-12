@@ -6,7 +6,7 @@ import os
 import simfin as sf
 from simfin.names import *
 
-# Where is the saved path?
+# Print the default directory?
 print(os.path.expanduser('~'))
 
 # Set your API-key for downloading data. This key gets the free data.
